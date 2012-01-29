@@ -2,18 +2,18 @@
 	"auto_indent": true,
 	"auto_match_enabled": true,
 	"caret_style": "smooth",
-	"color_scheme": "Packages/Color Scheme - Default/Birds of Paradise.tmTheme",
-	"font_face": "Ubuntu Mono",
+	"color_scheme": "Packages/User/Birds of Paradise.tmTheme",
+	"font_face": "Consolas",
 	"font_options":
 	[
 		"subpixel_antialias"
-		//"no_antiali"
 	],
-	"font_size": 13,
+	"font_size": 12,
 	"gutter": true,
 	"highlight_line": false,
 	"line_numbers": true,
 	"match_brackets": true,
 	"translate_tabs_to_spaces": true,
+	"auto_complete": false,
 	"use_tab_stops": true
 }
