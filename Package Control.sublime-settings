@@ -1,7 +1,4 @@
 {
-<<<<<<< HEAD
-	"auto_upgrade_last_run": 1327869101
-=======
 	"auto_upgrade_last_run": 1338629184,
 	"installed_packages":
 	[
@@ -13,5 +10,4 @@
 		"SublimeTODO",
 		"Xdebug"
 	]
->>>>>>> Update to latest version
 }
