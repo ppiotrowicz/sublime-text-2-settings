@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     { "keys": ["ctrl+w"], "command": "expand_selection", "args": {"to": "scope"} },
     { "keys": ["ctrl+shift+t"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
@@ -5,3 +6,17 @@
     { "keys": ["ctrl+t"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"} },
     { "keys": ["ctrl+alt+t"], "command": "show_overlay", "args": {"overlay": "goto", "text": "#"} }
 ]
+=======
+[
+    { "keys": ["ctrl+w"], "command": "expand_selection", "args": {"to": "scope"} },
+    { "keys": ["ctrl+shift+t"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
+    { "keys": ["ctrl+g"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} },
+    { "keys": ["ctrl+t"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"} },
+    { "keys": ["ctrl+alt+t"], "command": "show_overlay", "args": {"overlay": "goto", "text": "#"} },
+
+    //XDEBUG
+    {"keys": ["super+shift+d"], "command": "xdebug"},
+    {"keys": ["super+shift+b"], "command": "xdebug_breakpoint"},
+    {"keys": ["super+shift+r"], "command": "xdebug_continue" }
+]
+>>>>>>> Update to latest version
