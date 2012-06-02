@@ -8,6 +8,7 @@
 		"Phpcs",
 		"SublimeLinter",
 		"SublimeTODO",
+		"Theme - Soda",
 		"Xdebug"
 	]
 }
