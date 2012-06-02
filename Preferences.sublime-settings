@@ -18,7 +18,7 @@
 	],
 	"line_numbers": true,
 	"match_brackets": true,
+	"theme": "Soda Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"use_tab_stops": true,
-	"theme": "Soda Light.sublime-theme"
+	"use_tab_stops": true
 }
