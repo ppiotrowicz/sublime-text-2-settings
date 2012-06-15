@@ -1,9 +1,10 @@
 {
-	"auto_upgrade_last_run": 1338629184,
+	"auto_upgrade_last_run": 1339745398,
 	"installed_packages":
 	[
 		"AdvancedNewFile",
 		"Alignment",
+		"nginx",
 		"Package Control",
 		"SublimeLinter",
 		"SublimeTODO",

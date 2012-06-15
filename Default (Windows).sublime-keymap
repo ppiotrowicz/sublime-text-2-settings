@@ -5,9 +5,7 @@
     { "keys": ["ctrl+t"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"} },
     { "keys": ["ctrl+alt+t"], "command": "show_overlay", "args": {"overlay": "goto", "text": "#"} },
 
-    //XDEBUG
-    {"keys": ["super+shift+d"], "command": "xdebug"},
-    {"keys": ["super+shift+b"], "command": "xdebug_breakpoint"},
-    {"keys": ["super+shift+r"], "command": "xdebug_continue" }
+    //Alignment
+    { "keys": ["ctrl+alt+a"], "command": "alignment" }
 ]
 
